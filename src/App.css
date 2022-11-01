@@ -1,38 +1,196 @@
+body {
+  color: black;
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+  background-image: linear-gradient(to bottom right, darkblue, white);
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  margin: -50px -8px -8px -8px;
+}
+
+.heading {
+  color: Lavender;
+  margin-top: 50px;
+  font-size: 45px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 10px;
+}
+
+.app-wrapper {
+  margin-top: 150px;
+  height: 200px;
+  display: grid;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 20px;
+  background-color: Lavender;
+  border-radius: 20px;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.name-wrapper {
+  margin-top: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.input {
+  width: 65%;
+}
+
+.submit-btn {
+  margin-bottom: -25px;
+  position: center;
+  margin-left: 80px;
+  background-color: orange;
+  padding: 0.3rem 1rem;
+  border-radius: 10px;
+}
+
+.home {
+  background-image: linear-gradient(to bottom right, darkslategrey, white);
+  min-height: 100vh;
+  margin-top: -10px;
+  margin-bottom: -8px;
+  margin-left: -8px;
+}
+
+.text-wrap {
+  text-align: center;
+  font-size: 25px;
+  margin: 20px;
+}
+
+.submit-btn-2 {
+  margin-left: 48%;
+  margin-right: 48%;
+  background-color: orange;
+  padding: 0.3rem 1rem;
+  border-radius: 10px;
+}
+
+.title-txt {
+  font-family: monotype corsiva;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  /* padding: 10px; */
+  font-size: 50px;
+}
+
+.title-img {
+  display: flex;
+  justify-content: center;
+}
+
+.img-1 {
+  height: 427px;
+  width: 192px;
+}
+
+.img-sad {
+  height: 312px;
+  width: 163px;
+}
+
+.img-tan {
+  height: 332px;
+  width: 163px;
+}
+
+.img-nad {
+  width: 163px;
+  height: 332px;
+}
+
+.img-sru {
+  width: 124;
+  height: 265px;
+}
+
+.img-abh {
+  width: 240px;
+  height: 320px;
+}
+
+.img-san {
+  width: 160px;
+  height: 336px;
+}
+
+.img-abhis {
+  width: 240px;
+  height: 320px;
+}
+
+.img-aks {
+  width: 163px;
+  height: 332px;
+}
+
+.img-asr {
+  width: 192px;
+  height: 358px;
+}
+
+.img-har {
+  width: 319px;
+  height: 180px;
+}
+
+.img-sar {
+  width: 163px;
+  height: 335px;
+}
+
+.img-son {
+  width: 216px;
+  height: 278px;
+}
+
+.img-mah {
+  width: 216px;
+  height: 284px;
+}
+
+.img-pra {
+  width: 216px;
+  height: 282px;
+}
+
+.img-sus {
+  width: 331px;
+  height: 180px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.page-wrapper {
+  font-family: monotype corsiva;
+  font-size: 20px;
+  display: grid;
+}
+
+.wish-msg-left {
+  padding: 10px;
+  margin: 1rem;
+}
+
+.wish-msg-right {
+  padding: 10px;
+  margin: 1rem;
+}
+
+.txt-right {
+  margin: 5% 20% 0% 20%;
+}
+
+.txt-left {
+  margin: 5% 20% 0% 20%;
 }
