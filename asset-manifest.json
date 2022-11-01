@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6f3c22c8.css",
-    "main.js": "/static/js/main.59ec74e4.js",
+    "main.js": "/static/js/main.e8021806.js",
     "static/media/abhigna-7.jpg": "/static/media/abhigna-7.2b15aade939cc3349546.jpg",
     "static/media/abhishek-10.jpg": "/static/media/abhishek-10.180fd59daddcd6fcdc5b.jpg",
     "static/media/harika-6.jpg": "/static/media/harika-6.a5d4919774f8f14403c5.jpg",
@@ -20,10 +20,10 @@
     "static/media/thanish-1.jpg": "/static/media/thanish-1.0379a5c3161463246518.jpg",
     "index.html": "/index.html",
     "main.6f3c22c8.css.map": "/static/css/main.6f3c22c8.css.map",
-    "main.59ec74e4.js.map": "/static/js/main.59ec74e4.js.map"
+    "main.e8021806.js.map": "/static/js/main.e8021806.js.map"
   },
   "entrypoints": [
     "static/css/main.6f3c22c8.css",
-    "static/js/main.59ec74e4.js"
+    "static/js/main.e8021806.js"
   ]
 }
